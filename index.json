@@ -1,0 +1,11 @@
+{
+  "org": "argilla-io",
+  "repo": "synthetic-data-generator",
+  "versions": [
+    {
+      "commit": "771d5d7885a7d38c6983ed8d68396a4937658583",
+      "tag": "",
+      "parsed_at": "2026-11-08T02:18:28.094879+00:00"
+    }
+  ]
+}
